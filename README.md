@@ -33,3 +33,5 @@ Após cumprir esses passos agora será possível executar a aplicação para tes
 
 
 
+Abaixo você pode ver um exemplo da execução
+![exemplo execução](./ghimage/animalgif.gif)
